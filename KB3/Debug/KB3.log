@@ -1,4 +1,4 @@
 ﻿  Source.cpp
   The contents of <filesystem> are available only with C++17 or later.
-C:\Users\molotgor\source\repos\KB3\KB3\Source.cpp(112,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\molotgor\source\repos\KB3\KB3\Source.cpp(92,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
   KB3.vcxproj -> C:\Users\molotgor\source\repos\KB3\Debug\KB3.exe
